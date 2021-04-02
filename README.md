@@ -1,4 +1,4 @@
-# Batimento Cardiaco no Led
-Programa feito em C++ em que um Led quando colocado na Protoboard, simula um batimento cardíaco!
+# Heartbeat on Led
+Program created using C++ which a Led on a breadboard simulates a heartbeat!
 
-Requisitos Mínimos para o funcionamento: "1 Arduino" || "1 Protoboard" || "1 Resistor" || "2 Jumpers M/M" || "1 Cabo USB" || "1 LED" ||
+Minimum requirements for operation: "1 Arduino" || "1 Breadboard" || "1 Resistor" || "2 Jumpers M/M" || "1 USB Cable" || "1 LED" ||
